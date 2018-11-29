@@ -20,6 +20,6 @@
     <script src="http://code.jquery.com/jquery-3.3.1.js"></script>
     <script src="resources/js/ie10-viewport-bug-workaround.js"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
-    <script src="${script }]"></script>
+    <script src="${script }"></script>
     
 </head>

@@ -16,7 +16,7 @@ public class DAO {
 		DBName = "mining_shop_db_";
 		driver = "com.mysql.jdbc.Driver";
 //		driver = "com.mysql.cj.jdbc.Driver";
-		conURL = "jdbc:mysql://" + DBHost + ":3306/" + DBName;
+		conURL = "jdbc:mysql://" + DBHost + ":3306/" + DBName  + "?useUnicode=yes&characterEncoding=UTF-8";
 	}
 	
 	

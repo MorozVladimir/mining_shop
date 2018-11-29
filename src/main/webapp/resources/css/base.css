@@ -16,3 +16,17 @@ p.btn {
     display: table-row;
     vertical-align: bottom;
 }
+
+#reg_form {
+	margin:auto;
+	width:400px;
+	padding:20px;
+	border: solid 2px #D4D4D4;
+	border-radius:15px;
+}
+
+input.btn.btn-primary {
+    padding: 5px 20px;
+    font-size: 15px;
+    margin:10px;
+}
