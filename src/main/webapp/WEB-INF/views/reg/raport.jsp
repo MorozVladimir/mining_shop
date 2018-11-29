@@ -11,7 +11,8 @@
 
       <!-- Jumbotron -->
       <div class="jumbotron">
-        <h2>${user.login}</h2>      
+        <h2>${user.login}</h2
+        <h3>Удачная регистрация</h3>
       </div>
 
 <%@ include  file="../tpl/footer.jsp" %>
