@@ -1,12 +1,6 @@
 <component name="ArtifactManager">
   <artifact type="war" name="mining_shop:war">
     <output-path>$PROJECT_DIR$/target</output-path>
-    <properties id="maven-jee-properties">
-      <options>
-        <module>mining_shop</module>
-        <packaging>war</packaging>
-      </options>
-    </properties>
     <root id="archive" name="mining_shop-1.0.0-BUILD-SNAPSHOT.war">
       <element id="artifact" artifact-name="mining_shop:war exploded" />
     </root>
