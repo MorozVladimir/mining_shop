@@ -12,7 +12,7 @@
       <!-- Jumbotron -->
       <div class="jumbotron">
         <h2>${title}</h2>
-          <h3>Изменённые контакты</h3>
+          <h3>Изменённые контакты из итератор</h3>
       </div>
 
 <%@ include  file="../tpl/footer.jsp" %>
