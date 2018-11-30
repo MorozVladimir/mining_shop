@@ -13,6 +13,7 @@
       <div class="jumbotron">
         <h2>${title}</h2>
           <h3>Изменение итератор</h3>
+          <h3>еще изменение итератор</h3>
       </div>
 
 <%@ include  file="../tpl/footer.jsp" %>
